@@ -4,7 +4,8 @@ const app = createApp({
     data() {    
         return {
             title: "Titolo di prova",
-            ImgSrc: ""
+            color: "red"
+            
         }
     }
    
